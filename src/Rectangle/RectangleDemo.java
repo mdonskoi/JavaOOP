@@ -24,7 +24,7 @@ public class RectangleDemo {
 
         r1.combine(r2);
         System.out.println("r1: " + r1.getHeight() + " x " + r1.getWidth());
-        System.out.println("Площадь прямоугольника r2 равна: " + r2.rectangleSquare());
+        System.out.println("??????? ?????????????? r2 ?????: " + r2.rectangleSquare());
 
         System.out.println("Rectangle# " + r1.getCount());
         System.out.println("Rectangle# " + r2.getCount());
