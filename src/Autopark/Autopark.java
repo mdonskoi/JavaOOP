@@ -16,6 +16,15 @@ public class Autopark {
 
         a.offCars(a.autoparkRemoteControl());
 
+        Car car = new Car();
+        car.setSpeed(100);
+
+        System.out.println("--------------------");
+
+        car.on();
+        car.go();
+        car.off();
+
     }
 
 

@@ -14,12 +14,15 @@ public class AutoparkRemoteControl {
 
     public  Car[] autoparkRemoteControl() {
 
-        Car[] cars = new Car[N];
-        for (int i = 0; i < N; i++){
-           cars[i] = new Car();
+
+            Car[] cars = new Car[N];
+            for (int i = 0; i < N; i++) {
+                cars[i] = new Car();
+            }
+            return cars;
         }
-        return cars;
-    }
+
+
 
     public Car[] onCars(Car[] cars) {
         for (int i = 0; i < N; i++) {

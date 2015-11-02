@@ -5,7 +5,7 @@ package Autopark;
  */
 public class Car {
 
-   public int speed = 100;
+   private int speed;
 
     public void on(){
         System.out.println("Engine was turned on");
@@ -16,10 +16,10 @@ public class Car {
     }
 
     public void go(){
-        System.out.println("Car is driving" + speed);
+        System.out.println("Car is driving with speed " + speed + " km/h");
     }
 
-//    public void setSpeed(int speed) {
-//        this.speed = speed;
-//    }
+    public void setSpeed(int speed) {
+        this.speed = speed;
+    }
 }
