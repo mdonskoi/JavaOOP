@@ -7,12 +7,12 @@ public class Car {
     
     public Car(String name) {
         this.name = name;
-        engine = new Engine(0);
+        engine = new Engine(10000,2.0);
     }
     
     public Car(String name, double mileage) {
         this.name = name;
-        engine = new Engine(mileage);
+        engine = new Engine(mileage, 4.2);
     }
     
     public String getName() {
@@ -44,7 +44,5 @@ public class Car {
         	engine.addMileage(distance);
         }
     }
-   // public double getFuelConsumption(){
-     //   return
-    //}
+
 }
