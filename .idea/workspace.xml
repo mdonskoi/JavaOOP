@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6c42adb-219d-495c-9ce2-e24626da5514" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Autopark/Autopark.java" afterPath="$PROJECT_DIR$/src/Autopark/Autopark.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Autopark/AutoparkRemoteControl.java" afterPath="$PROJECT_DIR$/src/Autopark/AutoparkRemoteControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Autopark/Car.java" afterPath="$PROJECT_DIR$/src/Autopark/Car.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaOOP.iws" />
@@ -511,7 +508,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446501379358</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="setSpeed() method resolved">
+      <created>1446578692558</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1446578692558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
