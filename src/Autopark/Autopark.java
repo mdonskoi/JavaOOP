@@ -7,7 +7,15 @@ public class Autopark {
 
     public static void main(String[] args){
 
+
+
         AutoparkRemoteControl a = new AutoparkRemoteControl();
+
+
+        // null check
+        // if (a.equals(null)){
+        //    System.out.println("Car is null");
+        // }else
 
         a.setN(4);
 
@@ -24,6 +32,7 @@ public class Autopark {
         car.on();
         car.go();
         car.off();
+        
 
     }
 

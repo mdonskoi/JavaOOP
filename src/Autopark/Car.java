@@ -5,6 +5,11 @@ package Autopark;
  */
 public class Car {
 
+//    static int count;
+//    public int getCount(){
+// return count++;
+//   }
+
    private int speed;
 
     public void on(){

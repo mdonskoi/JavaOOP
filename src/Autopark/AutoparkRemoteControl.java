@@ -5,7 +5,7 @@ package Autopark;
  */
 public class AutoparkRemoteControl {
 
-    public static int N;
+    public int N;
 
 
     public void setN(int N) {
