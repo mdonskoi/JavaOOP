@@ -89,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/Autopark/AutoparkRemoteControl.java" />
         <option value="$PROJECT_DIR$/src/Autopark/Car.java" />
         <option value="$PROJECT_DIR$/src/Autopark/Autopark.java" />
+        <option value="$PROJECT_DIR$/src/Cars/Engine.java" />
       </list>
     </option>
   </component>
@@ -141,20 +142,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaOOP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -514,7 +501,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446578692558</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cars03112015">
+      <created>1446578767018</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1446578767018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -561,7 +554,8 @@
     <MESSAGE value="Rectangle Completed" />
     <MESSAGE value="Rectangle With Counter" />
     <MESSAGE value="setSpeed() method resolved" />
-    <option name="LAST_COMMIT_MESSAGE" value="setSpeed() method resolved" />
+    <MESSAGE value="Cars03112015" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cars03112015" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
