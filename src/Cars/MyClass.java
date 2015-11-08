@@ -24,7 +24,7 @@ public class MyClass {
         System.out.println(ferrari.getName() + ": " + ferrari.getMileage());
 
 
-        System.out.println(Engine.getCons(4.2));
+        System.out.println(Engine.getCons(2.0));
 
 
 
