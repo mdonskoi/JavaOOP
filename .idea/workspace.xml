@@ -721,7 +721,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446998350472</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;Student&quot; package was implemented and resolved.">
+      <created>1446998657284</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1446998657284</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -771,7 +777,8 @@
     <MESSAGE value="Cars03112015" />
     <MESSAGE value="Cars with getCons()" />
     <MESSAGE value="Phone package implemented and resolved." />
-    <option name="LAST_COMMIT_MESSAGE" value="Phone package implemented and resolved." />
+    <MESSAGE value="&quot;Student&quot; package was implemented and resolved." />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Student&quot; package was implemented and resolved." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
