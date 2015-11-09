@@ -23,7 +23,7 @@ public class MyClass {
 		System.out.println("Search by surname: " + sl.get(s).getName() + " " + sl.get(s).getBirth().toString());
 		System.out.println("Search by birth date: " + sl.get(d).getName() + " " + sl.get(d).getBirth().toString());
 
-		sl.removeFromList("Vasya", "Pupkin");
+		sl.removeFromList("Kolya", "Petrov");
 
 
 	}
