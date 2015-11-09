@@ -1,6 +1,9 @@
 package Phone;
 
 public abstract class Phone {
+
+	int callCount = 0;
+	int smsCount = 0;
 	
 	protected boolean touch;
 	protected boolean hasWifi;
@@ -24,7 +27,19 @@ public abstract class Phone {
 	
 	public void call(String number) {
 		System.out.println("Phone class is calling " + number);
+		callCount++;
 	}
-	
+
+	public int getCallCount(Phone phone){
+		return callCount;
+	}
+
+
 	public abstract void sendSMS(String number, String message);
+
+
+    public int getSmsCount(){
+
+        return smsCount++;
+    }
 }
