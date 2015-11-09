@@ -20,8 +20,10 @@ public class MainClass {
 		System.out.println("IPhone screen size: " + iphone.getScreenSize());
 		iphone.call("123-45-67");
 		iphone.sendSMS("567-78-89", "text message");
-		
+        System.out.println("Call №: " + iphone.getCallCount(iphone));
+
 		System.out.println("----------------------------------");
+
 		
 		IPhone5 iphone5 = new IPhone5();
 		System.out.println("IPhone screen size: " + iphone5.getScreenSize());
