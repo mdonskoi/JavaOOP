@@ -9,8 +9,12 @@ public class Main {
                 new Human(7)};
         Arrays.sort(list);
 
-        for (Human h : list)
+      //  for (int i = list.length; i == 0; i--) {
+
+           // Human h = list[];
+            for (Human h : list)
             System.out.println(h.getAge());
+        }
     }
-}
+
 

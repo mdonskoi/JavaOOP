@@ -9,13 +9,13 @@ class Human implements Comparable {
     public int compareTo(Object another) {
         Human h = (Human) another;
         if (age < h.age)
-            return -1;
+            return 1; // if -1 ascending sort
         else if (age == h.age)
             return 0;
         else if (age > h.age)
-            return 1;
+            return -1; // if 1 descending sort
         else
-            return 0; // make compiler happ
+            return 0; // make compiler happy
     }
 
  }
