@@ -2,7 +2,7 @@ package Human;
 
 import java.util.Arrays;
 
-public class Main {
+public class MainHuman {
     public static void main(String[] args) {
         Human[] list = {
                 new Human(40), new Human(20), new Human(3),
