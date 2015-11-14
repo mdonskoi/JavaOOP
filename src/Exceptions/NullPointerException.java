@@ -8,7 +8,7 @@ public class NullPointerException {
 
     public static void createFile() throws IOException{
 
-        File.createTempFile("ABC", "DEF", "/Users/mikhail");
+        File.createTempFile("ABc", "DEF", new File("/home/administrator/Рабочий стол/1"));
         System.out.println("File was created");
     }
 

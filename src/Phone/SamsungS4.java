@@ -13,19 +13,13 @@ public class SamsungS4 extends Phone {
         screenSize = 5;
     }
 
-//    @Override
-//    public boolean isHasWifi() {
-//        return true;
-//
-//    }
-//
-//    public int getScreenSize(){
-//       return screenSize = 5;
-//    }
+
 
     public void sendSMS(String number, String message){
 
+        smsCount++;
         System.out.println(message + "Hello");
+
 
     }
 

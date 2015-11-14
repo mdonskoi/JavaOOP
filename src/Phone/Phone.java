@@ -2,8 +2,8 @@ package Phone;
 
 public abstract class Phone {
 
-	int callCount = 0;
-	int smsCount = 0;
+	 int callCount = 0;
+	 int smsCount = 0;
 	
 	protected boolean touch;
 	protected boolean hasWifi;
@@ -35,11 +35,15 @@ public abstract class Phone {
 	}
 
 
-	public abstract void sendSMS(String number, String message);
+	public  void sendSMS(String number, String message){
+		smsCount++;
+	}
+
+	public int getSmsCount(Phone phone){return smsCount;}
 
 
-    public int getSmsCount(){
 
-        return smsCount++;
-    }
+
+
+
 }
