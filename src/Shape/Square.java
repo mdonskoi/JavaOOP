@@ -6,6 +6,7 @@ package Shape;
 public class Square extends Shape {
     double a;
 
+
     public void perimeter(){
         System.out.println("Perimeter of square is: " + a*4);}
 

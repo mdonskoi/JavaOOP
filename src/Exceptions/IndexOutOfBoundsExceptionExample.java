@@ -6,10 +6,8 @@ import java.lang.reflect.Array;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * Created by mikhail on 11/12/15.
- */
-public class IndexOutOfBoundsException {
+
+public class IndexOutOfBoundsExceptionExample {
     static int[] array = {1, 2, 3, 4, 5};
     private static int i;
 
