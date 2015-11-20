@@ -12,7 +12,10 @@ public class NullPointerExceptionExample {
     private int counter;
     public static void createFile() throws IOException{
 
-        File.createTempFile("ABc", "DEF", new File("/home/administrator/Рабочий стол/1"));
+        File.createTempFile("ABc", "DEF", new File("/home/administrator/Рабочий стол/1/"));
+
+        //   /Users/mikhail/1
+
         System.out.println("File was created");
         System.out.println("-------------------------------");
     }
