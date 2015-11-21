@@ -23,9 +23,9 @@ public class SortArray {
 
         System.out.print("Unsorted Array: ");
 
-        for (int i = 0; i < cats.length; i++) {
+        for (int i : cats) {
 
-            System.out.print(cats[i]);
+            System.out.print(i);
             System.out.print(", ");
         }
         System.out.println();
@@ -33,9 +33,9 @@ public class SortArray {
         System.out.print("Sorted Array: ");
 
         Arrays.sort(cats);
-        for (int i = 0; i < cats.length; i++) {
+        for (int i : cats) {
 
-            System.out.print(cats[i]);
+            System.out.print(i);
             System.out.print(", ");
         }
         System.out.println();
@@ -48,7 +48,7 @@ public class SortArray {
     public static void main(String[] args) {
         SortArray s = new SortArray();
 
-        for (int i = 1; i < 10
+        for (int i = 1; i < 2
                 ; i++) {
 
             try {

@@ -17,7 +17,7 @@ public class FileMover {
         try {
 
 
-            is = new FileInputStream("/Users/mikhail/1/Файлы, ввод-вывод - Занятие 7 - Java практика.mp4");
+            is = new FileInputStream("/home/administrator/Рабочий стол/Out/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4");
 
         } catch (FileNotFoundException fnfe) {
             System.out.println("File not found");
@@ -25,7 +25,7 @@ public class FileMover {
         }
 
         try {
-            os = new FileOutputStream("/Users/mikhail/2/Файлы, ввод-вывод - Занятие 7 - Java практика.mp4");
+            os = new FileOutputStream("/home/administrator/Рабочий стол/In/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4");
 
             int b;
             while ((b = is.read()) != -1) {
