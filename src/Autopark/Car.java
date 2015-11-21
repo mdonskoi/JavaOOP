@@ -10,17 +10,17 @@ public class Car {
 // return count++;
 //   }
 
-   private int speed;
+    private int speed;
 
-    public void on(){
+    public void on() {
         System.out.println("Engine was turned on");
     }
 
-    public void off(){
+    public void off() {
         System.out.println("Engine was turned off");
     }
 
-    public void go(){
+    public void go() {
         System.out.println("Car is driving with speed " + speed + " km/h");
     }
 

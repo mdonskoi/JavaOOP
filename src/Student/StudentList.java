@@ -39,8 +39,8 @@ public class StudentList {
         return -1;
     }
 
-    public void removeFromList(String name, String surname){
-        for (int i = 0; i<p; i++){
+    public void removeFromList(String name, String surname) {
+        for (int i = 0; i < p; i++) {
             if (list[i].getName().equalsIgnoreCase(name) & list[i].getSurname().equalsIgnoreCase(surname)) {
                 System.out.println(list[i].getName() + " " + list[i].getSurname() + " Was removed from list");
                 list[i] = null;
@@ -50,7 +50,7 @@ public class StudentList {
 //                System.out.println("There is no student by that name");
 //       }
 
+        }
     }
-}
 
 }

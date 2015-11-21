@@ -5,8 +5,7 @@ package Autopark;
  */
 public class Autopark {
 
-    public static void main(String[] args){
-
+    public static void main(String[] args) {
 
 
         AutoparkRemoteControl a = new AutoparkRemoteControl();
@@ -32,10 +31,9 @@ public class Autopark {
         car.on();
         car.go();
         car.off();
-        
+
 
     }
-
 
 
 }

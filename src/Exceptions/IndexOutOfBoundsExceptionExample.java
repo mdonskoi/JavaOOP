@@ -16,14 +16,14 @@ public class IndexOutOfBoundsExceptionExample {
         Scanner scanner = new Scanner(System.in);
 
         try {
-             i = scanner.nextInt();
-        }catch (InputMismatchException me){
+            i = scanner.nextInt();
+        } catch (InputMismatchException me) {
             System.out.println("Input only digits"); //почему выводит 1?
         }
 
         try {
             System.out.println(array[i]);
-        }catch (Exception ex){
+        } catch (Exception ex) {
             System.out.print("There is no: ");
             System.out.print(i);
             System.out.println(" index, input another");
@@ -34,9 +34,9 @@ public class IndexOutOfBoundsExceptionExample {
 
     public static void main(String[] args) {
 
-            arrayItemViewer();
-
-        }
+        arrayItemViewer();
 
     }
+
+}
 

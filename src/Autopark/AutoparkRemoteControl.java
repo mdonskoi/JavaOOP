@@ -10,18 +10,17 @@ public class AutoparkRemoteControl {
 
     public void setN(int N) {
         this.N = N;
-   }
+    }
 
-    public  Car[] autoparkRemoteControl() {
+    public Car[] autoparkRemoteControl() {
 
 
-            Car[] cars = new Car[N];
-            for (int i = 0; i < N; i++) {
-                cars[i] = new Car();
-            }
-            return cars;
+        Car[] cars = new Car[N];
+        for (int i = 0; i < N; i++) {
+            cars[i] = new Car();
         }
-
+        return cars;
+    }
 
 
     public Car[] onCars(Car[] cars) {
@@ -31,8 +30,8 @@ public class AutoparkRemoteControl {
         return cars;
     }
 
-    public void offCars(Car[] cars){
-        for (int i = 0; i < N; i++){
+    public void offCars(Car[] cars) {
+        for (int i = 0; i < N; i++) {
             cars[i].off();
         }
     }

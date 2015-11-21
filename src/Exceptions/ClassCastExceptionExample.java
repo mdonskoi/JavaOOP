@@ -11,7 +11,7 @@ public class ClassCastExceptionExample {
     public void classCastExeptionCaller() throws ClassCastException {
         try {
             System.out.println((Byte) c);
-        } catch (ClassCastException ce){
+        } catch (ClassCastException ce) {
             System.out.println(ce.getMessage());
 
         }

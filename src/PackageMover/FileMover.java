@@ -2,56 +2,56 @@ package PackageMover;
 
 
 import java.io.*;
+import java.util.Timer;
 
 public class FileMover {
 
-public void fileMover() {
+    long timeout = System.currentTimeMillis();
 
-    InputStream is = null;
-    OutputStream os = null;
+    public void fileMover() {
 
-
-
-try {
+        InputStream is = null;
+        OutputStream os = null;
 
 
-    is = new FileInputStream("/Users/mikhail/1/Файлы, ввод-вывод - Занятие 7 - Java практика.mp4");
-
-}catch (FileNotFoundException fnfe){
-    System.out.println("File not found");
-    return;
-}
-
-    try {
-        os = new FileOutputStream("/Users/mikhail/2/Файлы, ввод-вывод - Занятие 7 - Java практика.mp4");
-
-        int b;
-        while ((b = is.read())!=-1){os.write(b);}
-
-
-    }catch (Exception e){
-
-        System.out.println("No directory");
-       // e.printStackTrace();
-    }
-
-
-
-    finally {
         try {
-            is.close();
-        }catch (Exception e){
-            System.out.println("Not closed");
-        }
-        try {
-            os.close();
-        }catch (NullPointerException e){
-            System.out.println("NPE");
-        }catch (Exception e){
-            System.out.println("E");
-        }
-    }
 
-}
+
+            is = new FileInputStream("/Users/mikhail/1/Файлы, ввод-вывод - Занятие 7 - Java практика.mp4");
+
+        } catch (FileNotFoundException fnfe) {
+            System.out.println("File not found");
+            return;
+        }
+
+        try {
+            os = new FileOutputStream("/Users/mikhail/2/Файлы, ввод-вывод - Занятие 7 - Java практика.mp4");
+
+            int b;
+            while ((b = is.read()) != -1) {
+                os.write(b);
+            }
+
+
+        } catch (Exception e) {
+
+            System.out.println("No directory");
+            // e.printStackTrace();
+        } finally {
+            try {
+                is.close();
+            } catch (Exception e) {
+                System.out.println("Not closed");
+            }
+            try {
+                os.close();
+            } catch (NullPointerException e) {
+                System.out.println("NPE");
+            } catch (Exception e) {
+                System.out.println("E");
+            }
+        }
+        System.out.println(System.currentTimeMillis() - timeout + " ms");
+    }
 }
 

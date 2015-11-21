@@ -2,8 +2,14 @@ package Human;
 
 class Human implements Comparable {
     private int age;
-    public Human(int age) { this.age = age; }
-    public int getAge() { return age; }
+
+    public Human(int age) {
+        this.age = age;
+    }
+
+    public int getAge() {
+        return age;
+    }
 
     @Override
     public int compareTo(Object another) {
@@ -18,4 +24,4 @@ class Human implements Comparable {
             return 0; // make compiler happy
     }
 
- }
+}

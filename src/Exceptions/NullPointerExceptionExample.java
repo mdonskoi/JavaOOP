@@ -10,7 +10,8 @@ import java.lang.NullPointerException;
 public class NullPointerExceptionExample {
 
     private int counter;
-    public static void createFile() throws IOException{
+
+    public static void createFile() throws IOException {
 
         File.createTempFile("ABc", "DEF", new File("/home/administrator/Рабочий стол/1/"));
 
@@ -33,27 +34,27 @@ public class NullPointerExceptionExample {
             long timeout = System.currentTimeMillis();
 
 
-            while ((line = reader.readLine()) != null){
+            while ((line = reader.readLine()) != null) {
                 System.out.println(line);
                 counter++;
-            } System.out.println(counter + " lines");
+            }
+            System.out.println(counter + " lines");
             System.out.print("Working time is: ");
             System.out.println(System.currentTimeMillis() - timeout + " ms");
 
 
-
-        }catch (Exception ne){
+        } catch (Exception ne) {
             System.out.println(ne.getMessage());
         }
 
     }
 
     public static void main(String[] args) {
-        try{
+        try {
 
             createFile();
 
-        }catch (IOException e){
+        } catch (IOException e) {
             System.out.println(e.getMessage());
         }
 

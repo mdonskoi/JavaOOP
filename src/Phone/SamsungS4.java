@@ -14,8 +14,7 @@ public class SamsungS4 extends Phone {
     }
 
 
-
-    public void sendSMS(String number, String message){
+    public void sendSMS(String number, String message) {
 
         smsCount++;
         System.out.println(message + "Hello");

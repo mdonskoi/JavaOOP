@@ -10,10 +10,9 @@ public class SortArray {
     public void generator() throws OutOfMemoryError {
 
 
-
         Random random = new Random();
 
-        int [] cats;
+        int[] cats;
         int s = random.nextInt(150);
         cats = new int[s];
         long timeout = System.currentTimeMillis();
@@ -24,11 +23,11 @@ public class SortArray {
 
         System.out.print("Unsorted Array: ");
 
-            for (int i = 0; i < cats.length; i++) {
+        for (int i = 0; i < cats.length; i++) {
 
-                System.out.print(cats[i]);
-                    System.out.print(", ");
-            }
+            System.out.print(cats[i]);
+            System.out.print(", ");
+        }
         System.out.println();
 
         System.out.print("Sorted Array: ");
@@ -49,7 +48,7 @@ public class SortArray {
     public static void main(String[] args) {
         SortArray s = new SortArray();
 
-        for (int i = 1; i<10
+        for (int i = 1; i < 10
                 ; i++) {
 
             try {
