@@ -2,13 +2,15 @@ package PackageMover;
 
 
 import java.io.*;
-import java.util.Timer;
 
 public class FileMover {
 
+    String from;
+    String to;
+
     long timeout = System.currentTimeMillis();
 
-    public void fileMover() {
+    public void fileMover(String from, String to) {
 
         InputStream is = null;
         OutputStream os = null;
@@ -17,7 +19,8 @@ public class FileMover {
         try {
 
 
-            is = new FileInputStream("/home/administrator/Рабочий стол/Out/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4");
+            is = new FileInputStream(from);
+            // for linux /home/administrator/Рабочий стол/Out/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4
 
         } catch (FileNotFoundException fnfe) {
             System.out.println("File not found");
@@ -25,7 +28,8 @@ public class FileMover {
         }
 
         try {
-            os = new FileOutputStream("/home/administrator/Рабочий стол/In/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4");
+            os = new FileOutputStream(to);
+            // for linux /home/administrator/Рабочий стол/In/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4
 
             int b;
             while ((b = is.read()) != -1) {
