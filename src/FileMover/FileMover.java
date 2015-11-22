@@ -1,19 +1,18 @@
-package PackageMover;
+package FileMover;
 
 
 import java.io.*;
 
 public class FileMover {
+    InputStream is = null;
+    OutputStream os = null;
 
-    String from;
-    String to;
 
     long timeout = System.currentTimeMillis();
 
     public void fileMover(String from, String to) {
 
-        InputStream is = null;
-        OutputStream os = null;
+
 
 
         try {
