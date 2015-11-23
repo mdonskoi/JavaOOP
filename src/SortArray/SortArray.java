@@ -13,7 +13,7 @@ public class SortArray {
         Random random = new Random();
 
         int[] cats;
-        int s = random.nextInt(150);
+        int s = random.nextInt(20);
         cats = new int[s];
         long timeout = System.currentTimeMillis();
         for (int z = 0; z < cats.length; z++) {
