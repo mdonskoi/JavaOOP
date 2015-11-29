@@ -24,4 +24,9 @@ class Human implements Comparable {
             return 0; // make compiler happy
     }
 
+    public int hashCode(){
+        if (Human.super.equals(Human.this));
+            return 1;
+    }
+
 }
