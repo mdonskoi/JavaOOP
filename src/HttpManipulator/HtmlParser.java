@@ -56,6 +56,7 @@ public class HtmlParser {
 
     public static void main(String args[]) throws Exception {
         final String html = getHTML("http://prog.kiev.ua");
+        //final String html = getHTML("http://hello.com");
 
         final List<String> list = new ArrayList<String>();
         extractURLs(html, list);

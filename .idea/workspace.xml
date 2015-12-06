@@ -1,304 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c42adb-219d-495c-9ce2-e24626da5514" name="Default" comment="Add  HtmlParser">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-test-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-tests.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/resources/inherit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/NOTICE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/RELEASE-NOTES.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/Charsets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/HexDump.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOCase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/LineIterator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/CompositeFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DefaultFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DirectoryFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/ExtensionFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/LastModifiedFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/NameFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/PathFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/SizeFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/CompositeFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DefaultFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DirectoryFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/ExtensionFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/LastModifiedFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/NameFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/PathFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/SizeFileComparator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AbstractFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AgeFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AndFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanReadFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanWriteFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/ConditionalFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DelegateFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DirectoryFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/EmptyFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FalseFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFilterUtils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/HiddenFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/IOFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/MagicNumberFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NameFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NotFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/OrFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/PrefixFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/RegexFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SizeFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SuffixFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/TrueFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFileFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/AutoCloseInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BOMInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BoundedInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BrokenInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClassLoaderObjectInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CloseShieldInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClosedInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CountingInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/DemuxInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReaderInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReversedLinesFileReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/SwappedDataInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TaggedInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/Tailer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListenerAdapter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TeeInputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReaderException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationMonitor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationObserver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileEntry.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListenerAdaptor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationMonitor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationObserver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileEntry.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/BrokenOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ByteArrayOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CloseShieldOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ClosedOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CountingOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DeferredFileOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DemuxOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/FileWriterWithEncoding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/LockableFileWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/StringBuilderWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TaggedOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TeeOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ThresholdingOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/WriterOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/XmlStreamWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/BrokenOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ByteArrayOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CloseShieldOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ClosedOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CountingOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DeferredFileOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DemuxOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/FileWriterWithEncoding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/LockableFileWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/StringBuilderWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TaggedOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TeeOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ThresholdingOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/WriterOutputStream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/XmlStreamWriter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-use.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/stylesheet.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Autopark/Autopark.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Autopark/AutoparkRemoteControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Autopark/Car.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Cars/Car.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Cars/Climate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Cars/Engine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Cars/MyClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/CarsPolym/BMW.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/CarsPolym/BMW_M.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/CarsPolym/Car.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/CarsPolym/Lada.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/CarsPolym/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/ArithmeticalException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/ClassCastExceptionExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/IndexOutOfBoundsExceptionExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/IoException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/Main$HeightException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/Main$Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/Main$WidthException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/NullPointerExceptionExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Exceptions/ZeroDivideException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Human/Human.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Human/MainHuman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/InputOutput/Servlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/ItAssociate/Job.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/MyCat/Animal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/MyCat/MyCat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/MyCat/Pet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/PackageMover/CopyFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/PackageMover/PackageMover.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Phone/IPhone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Phone/IPhone5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Phone/MainClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Phone/Nokia3310.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Phone/Phone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Phone/SamsungS4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Rectangle/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Rectangle/RectangleDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Shape/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Shape/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Shape/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Shape/Triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/SortArray/SortArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Student/MyClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Student/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaOOP/Student/StudentList.class" afterPath="" />
+    <list default="true" id="e6c42adb-219d-495c-9ce2-e24626da5514" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/NOTICE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/RELEASE-NOTES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-test-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commons-io-2.4/commons-io-2.4-tests.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaOOP.iml" afterPath="$PROJECT_DIR$/JavaOOP.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/constant-values.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/deprecated-list.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/index-all.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/index.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/Charsets.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/Charsets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/HexDump.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/HexDump.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOCase.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/LineIterator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/LineIterator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/CompositeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/CompositeFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DefaultFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DefaultFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DirectoryFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DirectoryFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/ExtensionFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/ExtensionFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/LastModifiedFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/LastModifiedFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/NameFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/NameFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/PathFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/PathFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/SizeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/SizeFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/CompositeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/CompositeFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DefaultFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DefaultFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DirectoryFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DirectoryFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/ExtensionFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/ExtensionFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/LastModifiedFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/LastModifiedFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/NameFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/NameFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/PathFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/PathFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/SizeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/SizeFileComparator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AbstractFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AbstractFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AgeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AgeFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AndFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AndFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanReadFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanReadFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanWriteFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanWriteFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/ConditionalFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/ConditionalFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DelegateFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DelegateFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DirectoryFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DirectoryFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/EmptyFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/EmptyFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FalseFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FalseFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFilterUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFilterUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/HiddenFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/HiddenFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/IOFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/IOFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/MagicNumberFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/MagicNumberFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NameFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NameFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NotFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NotFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/OrFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/OrFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/PrefixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/PrefixFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/RegexFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/RegexFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SizeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SizeFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SuffixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SuffixFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/TrueFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/TrueFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFileFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/AutoCloseInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/AutoCloseInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BOMInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BOMInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BoundedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BoundedInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BrokenInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BrokenInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClassLoaderObjectInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClassLoaderObjectInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CloseShieldInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CloseShieldInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClosedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClosedInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CountingInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CountingInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/DemuxInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/DemuxInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReaderInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReaderInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReversedLinesFileReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReversedLinesFileReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/SwappedDataInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/SwappedDataInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TaggedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TaggedInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/Tailer.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/Tailer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListenerAdapter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListenerAdapter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TeeInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TeeInputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReaderException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReaderException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationMonitor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationMonitor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationObserver.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationObserver.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileEntry.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileEntry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListenerAdaptor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListenerAdaptor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationMonitor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationMonitor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationObserver.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationObserver.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileEntry.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileEntry.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/BrokenOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/BrokenOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ByteArrayOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ByteArrayOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CloseShieldOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CloseShieldOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ClosedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ClosedOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CountingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CountingOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DeferredFileOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DeferredFileOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DemuxOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DemuxOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/FileWriterWithEncoding.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/FileWriterWithEncoding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/LockableFileWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/LockableFileWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/StringBuilderWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/StringBuilderWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TaggedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TaggedOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TeeOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TeeOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ThresholdingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ThresholdingOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/WriterOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/WriterOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/XmlStreamWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/XmlStreamWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/BrokenOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/BrokenOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ByteArrayOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ByteArrayOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CloseShieldOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CloseShieldOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ClosedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ClosedOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CountingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CountingOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DeferredFileOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DeferredFileOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DemuxOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DemuxOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/FileWriterWithEncoding.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/FileWriterWithEncoding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/LockableFileWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/LockableFileWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/StringBuilderWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/StringBuilderWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TaggedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TaggedOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TeeOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TeeOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ThresholdingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ThresholdingOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/WriterOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/WriterOutputStream.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/XmlStreamWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/XmlStreamWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/overview-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/overview-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/overview-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/package-list" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/package-list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/serialized-form.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/serialized-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/stylesheet.css" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HttpManipulator/HtmlParser.java" afterPath="$PROJECT_DIR$/src/HttpManipulator/HtmlParser.java" />
     </list>
     <ignored path="JavaOOP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -323,10 +274,11 @@
       <file leaf-file-name="HtmlParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HttpManipulator/HtmlParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25577265">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state vertical-scroll-proportion="1.2468916">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
               <folding>
-                <element signature="e#1680#1688#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1739#1747#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -467,6 +419,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaOOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaOOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgKievUa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaOOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons-io-2.4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1165,7 +1135,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449405656164</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add  HtmlParser">
+      <created>1449406100237</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1449406100237</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1576,6 +1552,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1586,10 +1570,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HttpManipulator/HtmlParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25577265">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state vertical-scroll-proportion="1.2468916">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
           <folding>
-            <element signature="e#1680#1688#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1739#1747#0" expanded="true" />
           </folding>
         </state>
       </provider>
