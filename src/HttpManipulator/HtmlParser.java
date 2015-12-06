@@ -20,7 +20,7 @@ public class HtmlParser {
             BufferedReader br = new BufferedReader(new InputStreamReader(http.getInputStream()));
             char[] buf = new char[1000000];
 
-            int r = br.read(buf);
+            int r;// = br.read(buf);
             do {
                 if ((r = br.read(buf)) > 0)
                     sb.append(new String(buf, 0, r));
