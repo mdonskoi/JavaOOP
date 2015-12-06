@@ -17,8 +17,8 @@ public class WebPageDownloader
      *  Названия сайта с которого будем скачивать ссылки
      *  Путь к папке на диске, для скачивания файлов
      */
-    public static String url = "http://www.ukr.net";
-    public static String PATH_TO_FILE = "d:/test/link/";
+    public static String url = "http://hello.com/";
+    public static String PATH_TO_FILE = "/home/administrator/Рабочий стол/In/HtmlSaver/";
     /**
      *  Метод который возвращает содержимое веб - страницы ввиде строки
      */

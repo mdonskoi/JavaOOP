@@ -13,6 +13,14 @@ public class Message implements Serializable {
 	public transient String text;
 	public transient String path;
 
+	//---------------------
+	public byte[] buf;
+	public int fileLength;
+	public String fileName;
+	public boolean isPrivate;
+	public int i;
+
+
 	@Override
 	public String toString() {
 		return new StringBuilder()
@@ -33,12 +41,15 @@ public class Message implements Serializable {
 		ByteArrayOutputStream bs = new ByteArrayOutputStream();
 		ObjectOutputStream os = new ObjectOutputStream(bs);
 		try {
-			os.writeObject(this);
+			//os.writeObject(this);
 
 			if ( ! isFile) {
+				os.writeObject(this);
 				os.writeUTF(text);
 			} else {
 				// write file content
+				os.writeObject(this);
+				os.writeUTF(path);
 			}
 		} finally {
 			os.flush();
@@ -72,6 +83,8 @@ public class Message implements Serializable {
 				msg.text = (String) os.readUTF();
 			} else {
 				// read file content
+				msg.path = (String) os.readUTF();
+
 			}
 
 			return msg;

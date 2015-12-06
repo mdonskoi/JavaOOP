@@ -6,7 +6,14 @@ package FileMover;
 public class Main {
 
 
+
     public static void main(String[] args) {
+        //String from = "/home/administrator/Рабочий стол/Out/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4";
+       // String to = "/home/administrator/Рабочий стол/In/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4";
+
+        String from = "/home/administrator/Рабочий стол/Out/Антитела - Смотри в меня (original).mp3";
+        String to = "/home/administrator/Рабочий стол/In/Антитела - Смотри в меня (original).mp3";
+
         FileMover f = new FileMover();
 
         PackageMover p = new PackageMover();
@@ -18,8 +25,8 @@ public class Main {
         p.packageMover();
 
         // For linux
-     f.fileMover("/home/administrator/Рабочий стол/Out/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4",
-                "/home/administrator/Рабочий стол/In/Урок 11 - Annotations, I-O, Properties - Java для тестировщиков.mp4");
+     f.fileMover(from,to);
+
     }
 
 
