@@ -7,20 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="commons-io-2">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/commons-io-2.4" />
-        </CLASSES>
-        <JAVADOC>
-          <root url="file://$MODULE_DIR$/commons-io-2.4/docs" />
-        </JAVADOC>
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/commons-io-2.4" />
-        </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/commons-io-2.4" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/commons-io-2.4" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="commons-io-2" level="project" />
   </component>
 </module>

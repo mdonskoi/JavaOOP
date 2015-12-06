@@ -12,7 +12,7 @@ public class FileMover {
 
     public void fileMover(String from, String to) {
 
-
+// увеличить размер буфера для ускорения копирования
 
 
         try {
