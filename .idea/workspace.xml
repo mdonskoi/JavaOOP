@@ -1,259 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c42adb-219d-495c-9ce2-e24626da5514" name="Default" comment="Add  HtmlSaver">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HttpManipulator/WebPageDownloader.java" />
+    <list default="true" id="e6c42adb-219d-495c-9ce2-e24626da5514" name="Default" comment="add gitignore" />
+    <list id="61ac63bc-0fe8-487b-9d22-856521d15d92" name="New changelist" comment="Resolve external library">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaOOP.iml" afterPath="$PROJECT_DIR$/JavaOOP.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/constant-values.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/deprecated-list.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/index-all.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/index.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/Charsets.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/Charsets.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FileUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/HexDump.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/HexDump.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOCase.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOCase.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/IOUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/LineIterator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/LineIterator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/CompositeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/CompositeFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DefaultFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DefaultFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DirectoryFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/DirectoryFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/ExtensionFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/ExtensionFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/LastModifiedFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/LastModifiedFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/NameFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/NameFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/PathFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/PathFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/SizeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/SizeFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/CompositeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/CompositeFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DefaultFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DefaultFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DirectoryFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DirectoryFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/ExtensionFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/ExtensionFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/LastModifiedFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/LastModifiedFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/NameFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/NameFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/PathFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/PathFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/SizeFileComparator.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/SizeFileComparator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/comparator/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AbstractFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AbstractFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AgeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AgeFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AndFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AndFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanReadFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanReadFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanWriteFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanWriteFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/ConditionalFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/ConditionalFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DelegateFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DelegateFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DirectoryFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DirectoryFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/EmptyFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/EmptyFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FalseFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FalseFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFilterUtils.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFilterUtils.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/HiddenFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/HiddenFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/IOFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/IOFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/MagicNumberFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/MagicNumberFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NameFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NameFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NotFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NotFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/OrFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/OrFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/PrefixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/PrefixFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/RegexFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/RegexFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SizeFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SizeFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SuffixFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SuffixFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/TrueFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/TrueFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFileFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFileFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFilter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFilter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/AutoCloseInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/AutoCloseInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BOMInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BOMInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BoundedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BoundedInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BrokenInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BrokenInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClassLoaderObjectInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClassLoaderObjectInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CloseShieldInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CloseShieldInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClosedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClosedInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CountingInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CountingInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/DemuxInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/DemuxInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReaderInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReaderInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReversedLinesFileReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReversedLinesFileReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/SwappedDataInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/SwappedDataInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TaggedInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TaggedInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/Tailer.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/Tailer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListenerAdapter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListenerAdapter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TeeInputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TeeInputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReader.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReaderException.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReaderException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationMonitor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationMonitor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationObserver.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationObserver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileEntry.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/FileEntry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListener.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListener.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListenerAdaptor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListenerAdaptor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationMonitor.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationMonitor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationObserver.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationObserver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileEntry.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileEntry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/monitor/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/BrokenOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/BrokenOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ByteArrayOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ByteArrayOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CloseShieldOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CloseShieldOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ClosedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ClosedOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CountingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/CountingOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DeferredFileOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DeferredFileOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DemuxOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/DemuxOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/FileWriterWithEncoding.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/FileWriterWithEncoding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/LockableFileWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/LockableFileWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/NullWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ProxyWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/StringBuilderWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/StringBuilderWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TaggedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TaggedOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TeeOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/TeeOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ThresholdingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/ThresholdingOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/WriterOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/WriterOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/XmlStreamWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/XmlStreamWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/BrokenOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/BrokenOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ByteArrayOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ByteArrayOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CloseShieldOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CloseShieldOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ClosedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ClosedOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CountingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CountingOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DeferredFileOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DeferredFileOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DemuxOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DemuxOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/FileWriterWithEncoding.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/FileWriterWithEncoding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/LockableFileWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/LockableFileWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/StringBuilderWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/StringBuilderWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TaggedOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TaggedOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TeeOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TeeOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ThresholdingOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ThresholdingOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/WriterOutputStream.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/WriterOutputStream.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/XmlStreamWriter.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/class-use/XmlStreamWriter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/output/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-use.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/overview-frame.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/overview-summary.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/overview-tree.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/package-list" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/package-list" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/serialized-form.html" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/serialized-form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commons-io-2.4/docs/stylesheet.css" afterPath="$PROJECT_DIR$/commons-io-2.4/docs/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileMover/FileMover.java" afterPath="$PROJECT_DIR$/src/FileMover/FileMover.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileMover/Main.java" afterPath="$PROJECT_DIR$/src/FileMover/Main.java" />
     </list>
     <ignored path="JavaOOP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="true" />
     <option name="TRACKING_ENABLED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
+    <option name="SHOW_DIALOG" value="true" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
@@ -262,80 +21,24 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="JavaOOP" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileMover/Main.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.13870542">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileMover.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileMover/FileMover.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebPageDownloader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HttpManipulator/WebPageDownloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="13" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1835#1843#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-all.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/index-all.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.9259257">
-              <caret line="499" column="133" selection-start-line="499" selection-start-column="133" selection-end-line="499" selection-end-column="133" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tailer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6333333">
-              <caret line="117" column="6" selection-start-line="117" selection-start-column="6" selection-end-line="117" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="help-doc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.592592">
-              <caret line="115" column="12" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CopyUtils.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.592592">
-              <caret line="137" column="75" selection-start-line="137" selection-start-column="75" selection-end-line="137" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -353,6 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -361,13 +65,20 @@
       <projects_view />
     </option>
   </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="JavaOOP" />
+          <option name="title" value="JavaOOP (Bundled Groovy 2.3.9)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exceptions/ZeroDivideException.java" />
-        <option value="$PROJECT_DIR$/src/Exceptions/NullPointerException.java" />
-        <option value="$PROJECT_DIR$/src/Shape/Shape.java" />
-        <option value="$PROJECT_DIR$/src/Shape/Triangle.java" />
         <option value="$PROJECT_DIR$/src/Shape/Square.java" />
         <option value="$PROJECT_DIR$/src/InputOutput/Servlet.java" />
         <option value="$PROJECT_DIR$/src/Shape/Main.java" />
@@ -399,24 +110,33 @@
         <option value="$PROJECT_DIR$/src/PackageMover/Main.java" />
         <option value="$PROJECT_DIR$/src/PackageMover/FileMover.java" />
         <option value="$PROJECT_DIR$/src/PackageMover/PackageMover.java" />
-        <option value="$PROJECT_DIR$/src/FileMover/PackageMover.java" />
         <option value="$PROJECT_DIR$/src/Human/Human.java" />
         <option value="$PROJECT_DIR$/src/Human/MainHuman.java" />
         <option value="$PROJECT_DIR$/src/ListConverter/ArrayToListConverter.java" />
         <option value="$PROJECT_DIR$/src/ListConverter/NewList.java" />
         <option value="$PROJECT_DIR$/src/ListConverter/Main.java" />
-        <option value="$PROJECT_DIR$/src/HttpManipulator/HtmlParser.java" />
-        <option value="$PROJECT_DIR$/src/HttpManipulator/Saver.java" />
-        <option value="$PROJECT_DIR$/src/HttpManipulator/Main.java" />
+        <option value="$PROJECT_DIR$/src/12.2_SocketsChat/ChatClient/src/Message.java" />
+        <option value="$PROJECT_DIR$/src/12.2_SocketsChat/ChatClient/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/ChatServer/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/ChatClient/src/Message.java" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/ChatClient/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/ChatServer/src/Message.java" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/ChatServer/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/ChatServer/src/ClientThread.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/FileMover/PackageMover.java" />
         <option value="$PROJECT_DIR$/src/FileMover/Main.java" />
-        <option value="$PROJECT_DIR$/src/FileMover/FileMover.java" />
-        <option value="$PROJECT_DIR$/src/HttpManipulator/WebPageDownloader.java" />
-        <option value="$PROJECT_DIR$/commons-io-2.4/docs/index-all.html" />
-        <option value="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html" />
-        <option value="$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html" />
-        <option value="$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" />
+        <option value="$PROJECT_DIR$/src/SocketsChat/Message.java" />
+        <option value="$PROJECT_DIR$/../CSVParser/src/CSVParser/Main.java" />
+        <option value="$PROJECT_DIR$/../CSVParser/src/CSVParser/CSVParser.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -425,11 +145,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="41" />
-    <option name="width" value="1554" />
-    <option name="height" value="968" />
+    <option name="x" value="111" />
+    <option name="y" value="23" />
+    <option name="width" value="1264" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -456,50 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProgKievUa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProgKievUa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -511,44 +190,35 @@
               <option name="myItemId" value="ProgKievUa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProgKievUa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaOOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HttpManipulator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/commons-io-2.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="SearchEverywhereHistoryKey" value="IOUtils.copy&#9;null&#9;null&#10;copy&#9;FILE&#9;file:///media/administrator/DATA/IdeaProjects/JavaOOP/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -556,172 +226,19 @@
       <recent name="Developer" />
       <recent name="Phone" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CSVParser/src" />
+    </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/HashCodeExample/BlackBox.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SocketsChat/ChatClient/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SocketsChat/ChatServer/src/ClientThread.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SocketsChat/ChatServer/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SocketsChat/ChatServer/src/Server.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SocketsChat/Message.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ThreadsExample/ThreadDemo.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SocketsChat.ChatClient.src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="SocketsChat.ChatClient.src.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOOP" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HtmlParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="HttpManipulator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="HttpManipulator.HtmlParser" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOOP" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="HttpManipulator.*" />
+          <option name="PATTERN" value="CSVParser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="HttpManipulator.Main" />
+      <option name="MAIN_CLASS_NAME" value="CSVParser.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -730,47 +247,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOOP" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="FileMover.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="FileMover.CopyFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOOP" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="FileMover.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="FileMover.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaOOP" />
+      <module name="MyProjects" />
       <envs />
       <method />
     </configuration>
@@ -861,6 +338,133 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -875,6 +479,16 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -949,6 +563,9 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -992,33 +609,9 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
       <envs />
       <method />
     </configuration>
@@ -1078,35 +671,32 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HtmlParser" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CopyFile" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CopyFile" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HtmlParser" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -1122,9 +712,22 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e6c42adb-219d-495c-9ce2-e24626da5514" name="Default" comment="" />
+      <changelist id="61ac63bc-0fe8-487b-9d22-856521d15d92" name="New changelist" comment="Resolve external library" />
       <created>1446144882817</created>
       <option name="number" value="Default" />
       <updated>1446144882817</updated>
+      <workItem from="1449088841288" duration="158000" />
+      <workItem from="1449089039706" duration="748000" />
+      <workItem from="1449161351036" duration="3933000" />
+      <workItem from="1449352030844" duration="946000" />
+      <workItem from="1449422414037" duration="919000" />
+      <workItem from="1449594206072" duration="4124000" />
+      <workItem from="1449913828534" duration="1908000" />
+      <workItem from="1449926295945" duration="2739000" />
+      <workItem from="1450516235523" duration="261000" />
+      <workItem from="1450538113874" duration="418000" />
+      <workItem from="1450540477298" duration="79000" />
+      <workItem from="1450540585880" duration="495000" />
     </task>
     <task id="LOCAL-00001" summary="Rectangle Completed">
       <created>1446406959604</created>
@@ -1180,66 +783,52 @@
       <option name="project" value="LOCAL" />
       <updated>1448826775765</updated>
     </task>
-    <task id="LOCAL-00010" summary="List converter was added.">
-      <created>1448910157770</created>
+    <task id="LOCAL-00010" summary="Add SocketChat">
+      <created>1449352296892</created>
       <option name="number" value="00010" />
       <option name="project" value="LOCAL" />
-      <updated>1448910157770</updated>
+      <updated>1449352296892</updated>
     </task>
-    <task id="LOCAL-00011" summary="Add  HtmlParser">
-      <created>1449405656164</created>
+    <task id="LOCAL-00011" summary="add gitignore">
+      <created>1450540825388</created>
       <option name="number" value="00011" />
       <option name="project" value="LOCAL" />
-      <updated>1449405656164</updated>
+      <updated>1450540825388</updated>
     </task>
-    <task id="LOCAL-00012" summary="Add  HtmlParser">
-      <created>1449406100237</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1449406100237</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Add  HtmlParser">
-      <created>1449407092219</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1449407092219</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Add  HtmlSaver">
-      <created>1449412706803</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1449412706803</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16728000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="41" width="1554" height="968" extended-state="0" />
+    <frame x="111" y="23" width="1264" height="877" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34191176" sideWeight="0.4548063" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34267515" sideWeight="0.4548063" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30241424" sideWeight="0.42037302" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49426112" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2855392" sideWeight="0.579627" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293872" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.49426112" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.49360147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21931261" sideWeight="0.49360147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1814921" sideWeight="0.50639856" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29044586" sideWeight="0.579627" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.49713057" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34735578" sideWeight="0.49713057" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42292994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1262,13 +851,13 @@
     <MESSAGE value="Phone package implemented and resolved." />
     <MESSAGE value="&quot;Student&quot; package was implemented and resolved." />
     <MESSAGE value="List converter was added." />
-    <MESSAGE value="Add  HtmlParser" />
-    <MESSAGE value="Add  HtmlSaver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add  HtmlSaver" />
+    <MESSAGE value="Add SocketChat" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1277,394 +866,218 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/Developer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47556144">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/Hr.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+    <entry file="uml://JAVA/SortArray.SortArray">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>SortArray.SortArray</OriginalElement>
+          <nodes>
+            <node x="" y="">SortArray.SortArray</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/JuniorDeveloper.java">
+    <entry file="uml://MODULES/mdl-JavaOOP">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-JavaOOP</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-JavaOOP</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="70.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Libraries</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.System">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.System</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.System</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="-45.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Exceptions">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Exceptions</OriginalElement>
+          <nodes>
+            <node x="" y="">Exceptions.ArithmeticalException</node>
+            <node x="" y="">Exceptions.Main.HeightException</node>
+            <node x="" y="">Exceptions.Main.WidthException</node>
+            <node x="" y="">Exceptions.Main.Rectangle</node>
+            <node x="" y="">Exceptions.ClassCastExceptionExample</node>
+            <node x="" y="">Exceptions.IndexOutOfBoundsExceptionExample</node>
+            <node x="" y="">Exceptions.IoException</node>
+            <node x="" y="">Exceptions.NullPointerExceptionExample</node>
+            <node x="" y="">Exceptions.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="162.0" y="323.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/javax/script/ScriptEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077">
+          <caret line="287" column="16" selection-start-line="287" selection-start-column="16" selection-end-line="287" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/apple.applescript.AppleScriptEngine">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>apple.applescript.AppleScriptEngine</OriginalElement>
+          <nodes>
+            <node x="" y="">apple.applescript.AppleScriptEngine</node>
+            <node x="" y="">javax.script.ScriptEngine</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="555.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar!/apple/applescript/AppleScriptEngine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.119521916">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Thread">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Thread</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">java.lang.Thread.WeakClassKey</node>
+            <node x="" y="">java.lang.Thread.UncaughtExceptionHandler</node>
+            <node x="" y="">java.lang.Thread.Caches</node>
+            <node x="" y="">java.lang.Thread</node>
+            <node x="" y="">java.lang.Runnable</node>
+            <node x="" y="">java.lang.Thread.State</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.37276785714285715" x="542.0" y="522.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaOOP.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/MidleDeveloper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/SeniorDeveloper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItAssociate/TeamLeadDeveloper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InputOutput/Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/NullPointerExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25759578">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01981506">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/IoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13870542">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/ClassCastExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/IndexOutOfBoundsExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/ArithmeticalException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07926024">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarsPolym/Main-2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45574635">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cars/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05944518">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cars/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05944518">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cars/Climate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03963012">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cars/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03963012">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Autopark/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Autopark/AutoparkRemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Autopark/Autopark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.099075295">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/commons-io-2.4/commons-io-2.4.jar!/org/apache/commons/io/IOUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2003338">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Human/MainHuman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Human/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListConverter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1814672">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListConverter/NewList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListConverter/ArrayToListConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortArray/SortArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SocketsChat/ChatServer/src/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13019891">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SocketsChat/ChatClient/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60940325">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7446808">
-          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpManipulator/HtmlParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1742#1750#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpManipulator/Saver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#670#678#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpManipulator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.846293">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileMover/PackageMover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4231465">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileMover/CopyFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4231465">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
+    <entry file="uml://JAVA/HttpManipulator.WebPageDownloader">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>HttpManipulator.WebPageDownloader</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">HttpManipulator.WebPageDownloader</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-103.0" y="-1280.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-5.047733">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/FileInputStream.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23508137">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-          <folding />
+        <state vertical-scroll-proportion="0.27599245">
+          <caret line="303" column="19" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileMover/Main.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.13870542">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileMover/FileMover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HttpManipulator/WebPageDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1835#1843#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/index-all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.9259257">
-          <caret line="499" column="133" selection-start-line="499" selection-start-column="133" selection-end-line="499" selection-end-column="133" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/help-doc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.592592">
-          <caret line="115" column="12" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.592592">
-          <caret line="137" column="75" selection-start-line="137" selection-start-column="75" selection-end-line="137" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6333333">
-          <caret line="117" column="6" selection-start-line="117" selection-start-column="6" selection-end-line="117" selection-end-column="6" />
           <folding />
         </state>
       </provider>
