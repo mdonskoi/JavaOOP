@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP.iml" group="ProgKievUa" />
+      <module fileurl="file://$PROJECT_DIR$/../CSVParser/MyProjects.iml" filepath="$PROJECT_DIR$/../CSVParser/MyProjects.iml" group="MyProjects" />
     </modules>
   </component>
 </project>
